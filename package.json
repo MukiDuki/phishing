@@ -34,7 +34,7 @@
     "test": "NODE_OPTIONS=--experimental-vm-modules polkadot-dev-run-test --coverage --runInBand --detectOpenHandles --testPathIgnorePatterns addrcheck --testPathIgnorePatterns crosscheck"
   },
   "dependencies": {
-    "@pinata/sdk": "^1.2.1",
+    "@pinata/sdk": "^2.1.0",
     "dnslink-cloudflare": "^3.0.0"
   },
   "devDependencies": {
